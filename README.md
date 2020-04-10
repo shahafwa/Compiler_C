@@ -16,6 +16,6 @@ Any File in the language described inside the project.
 
 
 **Target**
-- `Generation`: parsing and compiling the code.
+- `Compiling`: parsing and compiling the code.
 
 
