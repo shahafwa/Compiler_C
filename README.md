@@ -5,7 +5,7 @@ In this project I had to develop a compiler.
 
 ### Install
 
-This project requires *C** 
+This project requires *C Language* 
 
 We recommend to use [Visual Studio 2010](https://visualstudio.microsoft.com/vs/older-downloads/).
 
