@@ -1,0 +1,17 @@
+﻿Build started 14/03/2018 14:57:30.
+     1>Project "C:\Users\shaha\Desktop\Projects\פרויקט קומפיילר\Compilation\Compilation.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Compilation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Compilation.vcxproj -> C:\Users\shaha\Desktop\Projects\פרויקט קומפיילר\Debug\Compilation.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Compilation.unsuccessfulbuild".
+         Touching "Debug\Compilation.lastbuildstate".
+     1>Done Building Project "C:\Users\shaha\Desktop\Projects\פרויקט קומפיילר\Compilation\Compilation.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
