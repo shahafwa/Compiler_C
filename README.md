@@ -16,6 +16,6 @@ Any File in the language described inside the project.
 
 
 **Target**
-- `Compiling`: parsing and compiling the code.
+- `Compiling`: getting a text which represent a code in a given language and parse it.
 
 
